@@ -1,0 +1,10 @@
+{
+  "name": "supertokens-website",
+  "version": "0.1.0",
+  "description": "Frontend SDK for SuperTokens - for session management + automatically refreshing sessions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
