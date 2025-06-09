@@ -5,3 +5,4 @@ __pycache__/
 build/
 *.log
 coverage/
+.pytest_cache/
