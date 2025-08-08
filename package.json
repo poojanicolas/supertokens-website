@@ -1,6 +1,6 @@
 {
   "name": "supertokens-website",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Frontend SDK for SuperTokens - for session management + automatically refreshing sessions",
   "main": "src/index.js",
   "scripts": {
